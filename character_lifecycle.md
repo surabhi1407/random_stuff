@@ -1,9 +1,3 @@
-This is a fantastic project! Building a game with your daughter is a great way to learn. Since you are building a racing game, consistency is the hardest part of AI art—you don't want your main character to look like a different person in every level.
-
-Here is the **"Character Pipeline"** specifically designed for Nano Banana Pro (Gemini 3 Pro) to maintain consistency from concept to game asset.
-
----
-
 ### **Phase 1: The "Master Blueprint" (Do This First)**
 
 Before you make the character drive or celebrate, you need a **Character Model Sheet**. In game design, this is called an "Orthographic View." This image will serve as the "Truth" for all future generations.
